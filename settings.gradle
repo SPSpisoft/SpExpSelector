@@ -1,0 +1,3 @@
+include ':spexpsel'
+include ':app'
+rootProject.name = "SpExpSelector"
